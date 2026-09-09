@@ -131,7 +131,7 @@ Through this task, I gained practical experience in:
 
 Step 1: Clone the Repository
 
-git clone <repository-url>
+git clone: https://github.com/soujanya04122007/codevision-task-2-linear-regression-model.git
 
 Step 2: Navigate to the Project Folder
 
